@@ -33,8 +33,10 @@ The dataset contains information about bike rides in London, including ride dura
    - **Temperature vs Wind Speed Heatmap**: Shows the sum count of rides based on temperature and wind speed.
    - **Weather Condition Heatmap**: Depicts the total rides on different weather conditions (e.g., clear, cloudy, rain, snowfall).
    - **Hourly Rides Heatmap**: Illustrates the total rides during different hours of the day.
+
    
 _Note: The last two visualizations appear on the tooltip when hovering over the heatmap or the line graph._
+
 
 ## How to Use
 
